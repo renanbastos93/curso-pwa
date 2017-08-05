@@ -25,3 +25,7 @@ O GEDIT seria um optimizador do JAVASCRIPT, recomendamos use coisas concisas.
 
 WEB ABERTA VEM FAZENDO O MUNDO MUDAR...
 
+Toda WEB tem que ser HTTPS usando SSL, até o google e a mozilla, tem campanhas da WEB SEGURA, recomendou CLOUDFLARE, LETS ENCRYPT, NOW.APP;
+
+Antes de ontem a APPLE (SAFARI) agora aceita SERVICE WORKER. Eles demoraram, ou seja, pisam no freio, por causa de dinheiro. Mas eles comecaram a notar os beneficios que o povo vem usando e comecaram a aceitar;
+
