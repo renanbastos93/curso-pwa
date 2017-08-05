@@ -53,7 +53,5 @@ estudar CORS
 cacheAPI: 
  - Ele salva o Request e o Response tudo junto!
  - Ele e considerado um banco de dados e pode ser usado ate 50% do espaco livre do seu computador;
- 
 
-
-
+JSON padrao nao tem comentarios

@@ -1,0 +1,24 @@
+{
+  "name": "curso-pwa",
+  "version": "1.0.0",
+  "description": "Curso de PWA ministrado pelo @felipenmoura, onde realizei e aqui tem anotações e códigos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/curso-pwa.git"
+  },
+  "keywords": [
+    "pwa",
+    "curso",
+    "braziljs"
+  ],
+  "author": "Renan Bastos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanbastos93/curso-pwa/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/curso-pwa#readme"
+}
