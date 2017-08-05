@@ -1,4 +1,4 @@
-const VERSION = 'curso-pwa-3';
+const VERSION = 'curso-pwa';
 
 self.addEventListener('install', event => {
     event.waitUntil(new Promise((resolve, reject) => {
@@ -21,10 +21,18 @@ self.addEventListener('install', event => {
 
 self.addEventListener('activate', event => {
     event.waitUntil(new Promise((resolve, reject) => {
-        console.log('ACTIVATED ' + VERSION);
-        resolve();
-    }));
-});
+        caches.keys().then(keysList => {
+            return Promise.all(keysList.map(cacheKey => {
+                if (cacheKey !== VERSION) {
+                    return caches.delete(cacheKey)
+                }
+            })).then(_ => {
+                console.log('ACTIVATED ' + VERSION)
+                resolve()
+            })
+        })
+    }))
+})
 
 self.addEventListener('fetch', event => {
     const url = new URL(event.request.url)

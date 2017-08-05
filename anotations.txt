@@ -65,3 +65,5 @@ serviceWorker:
  - ele suporta promise
  - ele nao chuta outros serviceWorker ele entra na fila e aguarda sua vez
  - ele tem que ta na raiz ele so vai trabalhar sobre os filhos deles
+
+
