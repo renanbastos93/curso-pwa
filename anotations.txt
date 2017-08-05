@@ -29,3 +29,31 @@ Toda WEB tem que ser HTTPS usando SSL, até o google e a mozilla, tem campanhas 
 
 Antes de ontem a APPLE (SAFARI) agora aceita SERVICE WORKER. Eles demoraram, ou seja, pisam no freio, por causa de dinheiro. Mas eles comecaram a notar os beneficios que o povo vem usando e comecaram a aceitar;
 
+Service worker e 100% assincrono.
+
+vamos ver / user
+- cacheAPI
+- webSockets
+- webWorkers
+- webRTC
+
+Promise sempre e assincrono;
+Promise sao ATEMPORAIS -  uma vez resolvida ela sempre estara resolvida.
+JAVASCRIPT ACEITA ACENTOS ele é UTF-8
+
+PROMISE.RACE = ele faz uma corrida qual retorna primeiro ou seja tipo corrida de lebre threads paralela.
+
+Fetch = vai buscar;
+Ele e uma promise;
+ex.: fetch('https://api.github.com/users/braziljs/repos').then(responseObject => { responseObject.json().then(console.log)});
+no FETCh ele resolve sempre, ou seja, so vai rejeitar quando nao houver comunicacao com o servidor ou o usuario por fora de conexao ou algo do genero;
+
+estudar CORS
+
+cacheAPI: 
+ - Ele salva o Request e o Response tudo junto!
+ - Ele e considerado um banco de dados e pode ser usado ate 50% do espaco livre do seu computador;
+ 
+
+
+
