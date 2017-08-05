@@ -1,0 +1,27 @@
+Tudo inicio opela firefox, com Firefox OS, que permitia baixar as webapps, onde a ideia deles tambem era levar smartphones para paises que nao haviam tipo a africa, 
+isso surgiu tbm parceria com algumas empresa que veio tbm o WEBGL.
+Os apps hibridos, e pura gambiarra, mas funciona, problema que com isso se perde performance.
+ECMASCRIPT e o padrao nome real, porem por causa do JAVA que eles queriam empurrar que JS e jao bom por isso botaram como um nome comercial JAVASCRIPT
+Onde tem o grupo TC39, que eles definem os padrao da linguagem hoje que o foco e nao quebrar a WEB.
+Gracas a esse grupo o linguagem cresceu muito, e em crescendo em padroes para nao quebrar o web.
+Criador do NODEJS foi um Matematico, RYAHL DAWN, ele ia fazer em C, mas descobriu com conselho de outros que JS estava em alta e vindo sendo bem aproveitado e e felz o NODEJS
+
+PWA:
+Problemas que elas querem resolver? 
+- Processamento e temperatura; google boto bolsa de gelo nele e identificoq ue fica bem mais rapido
+- Tamanho dos Apps nativos sáo muito grandes; exemplo teve caso de 80 mb mudou para 5 mb;
+- Para manter uma equipe unica, evitando ter varias equipe de android, mac, etc... agora focando em uma equipe unica focado numa tecnologia, assim gerando economia para empresa, e tendo um equipe mais empenhada;
+- Vantagem tambem e layouta a pagina com html e css, onde em apps nativos e muito mais trabalhoso e perde tempo de desenvolvimento do app nativo;
+- Com PWA vem a ideia de evitar o LIE-FI com OFLINE FIRST;
+
+
+
+Dispositivos hoje sao bem mais rapidos, cada dia vem evoluindo cada dia mais, assim como os softwares vem evoluindo.
+
+FOCA NA PERFORMANCE, POREM DEIXA SEU CODIO MAIS ILEGIVEL, MAS MESMO ASSIM TEM QUE FOCAR NA PERFOMANCE.
+
+JS HOJE E UMA DAS LINGUAGENS MAIS PERTO DE C, GRACAS AO GEDIT, se a funcao passou mais de 2 ou 3 vezes o gedit evita dele passa no interpetrador de novo e ja puxa ela mais rapidamente.
+O GEDIT seria um optimizador do JAVASCRIPT, recomendamos use coisas concisas.
+
+WEB ABERTA VEM FAZENDO O MUNDO MUDAR...
+
