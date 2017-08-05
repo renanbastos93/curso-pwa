@@ -55,3 +55,13 @@ cacheAPI:
  - Ele e considerado um banco de dados e pode ser usado ate 50% do espaco livre do seu computador;
 
 JSON padrao nao tem comentarios
+
+Install LIGHTHOUSE no google chrome
+
+serviceWorker:
+ - ele roda tipo o webWorker, porem ele segue rodando ate com o navegador fechado
+ - ele obedece o escope de suas url tipo se for /bla ele inicia apartir dessa rota.
+ - deve ser instalado
+ - ele suporta promise
+ - ele nao chuta outros serviceWorker ele entra na fila e aguarda sua vez
+ - ele tem que ta na raiz ele so vai trabalhar sobre os filhos deles

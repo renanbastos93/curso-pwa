@@ -10,8 +10,32 @@
         <title>CURSO PWA</title>
 
         <link rel="manifest" href="/manifest.json">
+
+        <link rel="stylesheet" href="_css/default.css">
     </head>
     <body>
-        :)
+AWESOME
+        <img src="/_img/icon-48.png" alt="" width="200">
+
+        <script>
+            if('serviceWorker' in navigator){
+                navigator
+                .serviceWorker
+                .register('/sw.js')
+                .then(
+                    registry => {
+                        console.log('Registry with success', registry.scope);
+                    }
+                )
+                .catch(
+                    err => {
+                        console.log('Ops, error the registry service worker')
+                    }
+                )
+            }
+        </script>
+
+        <script src="/_js/index.js"></script>
+        
     </body>
 </html>
